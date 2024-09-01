@@ -12,7 +12,7 @@ public class SignUtils {
 
     /**
      * 生成签名
-     * @param body 
+     * @param body
      * @param secretKey 密钥
      * @return 生成的签名字符串
      */
